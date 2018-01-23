@@ -1,6 +1,13 @@
+/* change color of h1 */
 h1 {
   color: lightgrey;
 }
+/* change hover link color */
+a:hover {
+   color:black;
+}
+<a href="https://rwill134.github.io/">link</a>
+
 
 ul.main-menu {
     list-style-type: none;
