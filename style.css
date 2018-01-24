@@ -6,7 +6,11 @@ h1 {
 a:hover {
    color: red;
 }
-/*<a href="https://rwill134.github.io/">link</a>*/
+
+/* remove line under link */
+a:link {
+    text-decoration: none;
+}
 
 ul.main-menu {
     list-style-type: none;
