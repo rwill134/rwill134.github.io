@@ -1,20 +1,15 @@
 /* change color of h1 */
 h1 {
-  color: lightblue;
-}
-/* change hover link color 
-a:hover {
-   color: red;
+  color: brown;
 }
 
-/* remove line under link 
-a:link {
-    text-decoration: none;
-}*/
+body {
+  background: wheat;
+}
 
 a:link, a:visited {
     background-color: #f44336;
-    color: white;
+    color: wheat;
     padding: 14px 25px;
     text-align: center; 
     text-decoration: none;
@@ -22,7 +17,7 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-    background-color: red;
+    background-color: palevioletred;
 }
 
 ul.main-menu {
