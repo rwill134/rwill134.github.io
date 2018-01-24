@@ -1,34 +1,20 @@
 /* change color of h1 */
 h1 {
-  color: brown;
+  color: lightpink;
 }
 
 body {
-  background: wheat;
+  background: antiquewhite;
 }
 
-/*a:link, a:visited {
+a:link, a:visited {
     background-color: #f44336;
     color: palevioletred;
     padding: 14px 25px;
     text-align: center; 
     text-decoration: none;
     display: inline-block;
-}*/
-
-.button {
-    background-color: #4CAF50;
-    border: none;
-    color: white;
-    padding: 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
 }
-
-.button1 {border-radius: 12px;}
 
 a:hover, a:active {
     background-color: red;
