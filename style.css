@@ -7,6 +7,13 @@ body {
   background: antiquewhite;
 }
 
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
 a:link, a:visited {
     background-color: #f44336;
     color: white;
