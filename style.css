@@ -2,14 +2,27 @@
 h1 {
   color: lightgrey;
 }
-/* change hover link color */
+/* change hover link color 
 a:hover {
    color: red;
 }
 
-/* remove line under link */
+/* remove line under link 
 a:link {
     text-decoration: none;
+}*/
+
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: red;
 }
 
 ul.main-menu {
