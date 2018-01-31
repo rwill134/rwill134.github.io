@@ -19,16 +19,17 @@ p {
 }
 
 a:link, a:visited {
-    background-color: black;
-    color: white;
+    background-color: aliceblue;
+    color: black;
     padding: 14px 25px;
     text-align: center; 
     text-decoration: none;
     display: inline-block;
+    box-shadow: 10px 10px grey;
 }
 
 a:hover, a:active {
-    background-color: dimgray;
+    background-color: azure;
 }
 
 ul.main-menu {
