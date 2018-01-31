@@ -6,7 +6,7 @@ h1 {
 body {
   background: antiquewhite;
   background-image: url("/eiffel.jpg");
-  background-size: 150px 50px;
+  background-size: auto;
   background-repeat: no-repeat;
 }
 
