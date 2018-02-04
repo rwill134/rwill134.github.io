@@ -25,6 +25,7 @@ p {
     margin-left: 150px;
     text-align: justify;
     color: white;
+    font-family: "Courier New", Courier, monospace;
 }
 
 a:link, a:visited {
@@ -34,7 +35,7 @@ a:link, a:visited {
     text-align: center; 
     text-decoration: none;
     display: inline-block;
-    box-shadow: 5px 5px grey;
+    box-shadow: 2px 2px grey;
 }
 
 a:hover, a:active {
