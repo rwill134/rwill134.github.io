@@ -29,12 +29,12 @@ p {
 
 a:link, a:visited {
     background-color: aliceblue;
-    color: white;
+    color: black;
     padding: 14px 25px;
     text-align: center; 
     text-decoration: none;
     display: inline-block;
-    box-shadow: 10px 10px grey;
+    box-shadow: 5px 5px grey;
 }
 
 a:hover, a:active {
