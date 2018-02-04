@@ -4,6 +4,11 @@ h1 {
   font-family: "Courier New", Courier, monospace;
 }
 
+h2 {
+   color: white;
+   font-family: "Courier New", Courier, monospace;
+}
+
 body {
   background-image: url("/eiffel.jpg");
   background-repeat: no-repeat;
@@ -19,6 +24,7 @@ p {
     margin-right: 150px;
     margin-left: 150px;
     text-align: justify;
+    color: white;
 }
 
 a:link, a:visited {
