@@ -1,6 +1,6 @@
 /* change color of h1 */
 h1 {
-  color: black;
+  color: white;
   font-family: "Courier New", Courier, monospace;
 }
 
@@ -23,7 +23,7 @@ p {
 
 a:link, a:visited {
     background-color: aliceblue;
-    color: black;
+    color: white;
     padding: 14px 25px;
     text-align: center; 
     text-decoration: none;
