@@ -28,7 +28,7 @@ p {
     font-family: "Courier New", Courier, monospace;
 }
 
-a:link, a:visited {
+a.main-menu:link, a.main-menu:visited {
     background-color: aliceblue;
     color: black;
     padding: 14px 25px;
@@ -38,7 +38,7 @@ a:link, a:visited {
     box-shadow: 2px 2px grey;
 }
 
-a:hover, a:active {
+a.main-menu:hover, a.main-menu:active {
     background-color: azure;
 }
 
@@ -48,5 +48,28 @@ ul.main-menu {
     padding: 0;
 }
 ul.main-menu>li {
+    display: inline;
+}
+
+a.writing-samples:link, a.writing-samples:visited {
+    background-color: aliceblue;
+    color: black;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    box-shadow: 2px 2px grey;
+}
+
+a.writing-samples:hover, a.writing-samples:active {
+    background-color: azure;
+}
+
+ul.writing-samples {
+    list-style-type: none;
+    margin: 2px;
+    padding: 0;
+}
+ul.writing-samples>li {
     display: inline;
 }
