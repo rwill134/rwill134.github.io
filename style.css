@@ -13,8 +13,9 @@ h2 {
 }
 
 body {
-  background-image: url("/coffee-writer.jpeg");
+  background-image: url("/coffee-writing.jpeg");
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .boxed {
