@@ -15,7 +15,7 @@ body {
 }
 
 .boxed {
-  border: 1px solid aliceblue ;
+  border: 2px groove aliceblue ;
 }
 
 p {
