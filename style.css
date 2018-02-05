@@ -1,12 +1,12 @@
 /* change color of h1 */
 h1 {
-  color: white;
-  font-family: "Courier New", Courier, monospace;
+  color: aliceblue;
+  font-family: Copperplate, "Copperplate", fantasy;
 }
 
 h2 {
-   color: white;
-   font-family: "Courier New", Courier, monospace;
+   color: aliceblue;
+   font-family: Copperplate, "Copperplate", fantasy;
 }
 
 body {
@@ -62,7 +62,7 @@ a.writing-samples:link, a.writing-samples:visited {
 }
 
 a.writing-samples:hover, a.writing-samples:active {
-    background-color: azure;
+    background-color: white;
 }
 
 ul.writing-samples {
