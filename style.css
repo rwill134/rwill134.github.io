@@ -59,7 +59,7 @@ ul.main-menu>li {
 
 ul.writing-samples {
     list-style-type: none;
-    margin: 0;
+    margin: 150px;
     padding: 2px;
 }
 ul.writing-samples>li {
