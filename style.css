@@ -69,7 +69,9 @@ ul.main-menu>li {
 
 ul.writing-samples {
     list-style-type: none;
-    margin: 150px;
+    margin-left: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     padding: 2px;
 }
 ul.writing-samples>li {
