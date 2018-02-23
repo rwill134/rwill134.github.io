@@ -44,7 +44,7 @@ p {
     font-family: "Courier New", Courier, monospace;
 }
 
-ul {
+ul.research-items {
   margin-top: 0px;
     margin-bottom: 0px;
     margin-right: 10px;
