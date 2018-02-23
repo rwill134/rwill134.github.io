@@ -54,6 +54,7 @@ table {
     color: white;
     font-family: "Courier New", Courier, monospace;
     column-gap: 10px;
+    row-gap: 10px;
 }
 
 a:link, a:visited {
