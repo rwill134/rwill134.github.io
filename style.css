@@ -44,6 +44,17 @@ p {
     font-family: "Courier New", Courier, monospace;
 }
 
+ul {
+  margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 10px;
+    margin-left: 10px;
+    text-align: justify;
+    line-height: 20px;
+    color: white;
+    font-family: "Courier New", Courier, monospace;
+}
+
 table {
   margin-top: 0px;
     margin-bottom: 0px;
