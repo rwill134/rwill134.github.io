@@ -56,6 +56,10 @@ ul.research-list {
     list-style-type: circle;
 }
 
+ul.research-list>li {
+    display: block;
+}
+
 table {
   margin-top: 0px;
     margin-bottom: 0px;
