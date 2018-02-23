@@ -53,6 +53,7 @@ table {
     line-height: 20px;
     color: white;
     font-family: "Courier New", Courier, monospace;
+    column-gap: 10px;
 }
 
 a:link, a:visited {
