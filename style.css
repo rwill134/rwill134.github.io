@@ -119,3 +119,7 @@ ul.writing-samples>li {
     display: table;
     clear: both;
 }
+
+.img-circle {
+  border-radius: 50%;
+}
