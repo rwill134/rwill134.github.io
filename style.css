@@ -108,3 +108,14 @@ ul.writing-samples {
 ul.writing-samples>li {
     display: block;
 }
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
