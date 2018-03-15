@@ -125,3 +125,7 @@ ul.writing-samples>li {
   width: 50%;
   height: 50%;
 }
+
+#doner: hover {
+  opacity: 0.5;
+}
