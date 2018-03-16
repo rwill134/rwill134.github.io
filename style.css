@@ -87,6 +87,7 @@ a:link, a:visited {
 
 a:hover, a:active {
     background-color: azure;
+    cursor: pointer;
 }
 
 ul.main-menu {
