@@ -25,7 +25,7 @@ body {
   margin-bottom: 100px;
   margin-right: 250px;
   margin-left: 150px;
-  background-color: BurlyWood;
+  background-color: OldLace;
 }
 
 #snco {
@@ -40,7 +40,7 @@ p {
     margin-left: 10px;
     text-align: justify;
     line-height: 20px;
-    color: white;
+    color: SaddleBrown;
     font-family: "Courier New", Courier, monospace;
 }
 
