@@ -33,12 +33,17 @@ body {
   width: 350px;
 }
 
-#boxed exp {
+#sb {
+  height: 450 px;
+  width: 350 px;
+}
+
+#exp {
   height: 450px;
   width: 200px;
 }
 
-#boxed hsm {
+#hsm {
   height: 450px;
   width: 350px;
 }
