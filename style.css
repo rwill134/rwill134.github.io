@@ -44,10 +44,15 @@ body {
 }
 
 #hsm2 {
-  height: 550px;
-  width: 450px;
+  height: 450px;
+  width: 350px;
 }
 
+#borders {
+   height: 550px;
+   width: 450px;
+}
+    
 #hsm {
   height: 550px;
   width: 450px;
